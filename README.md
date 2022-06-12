@@ -12,14 +12,11 @@ I'm Alper, a 20 years old developer from Turkey.
 <img width="24px" src="https://img.icons8.com/color/48/undefined/code-folder.png"/>  C#, C                          
 <img width="24px" src="https://img.icons8.com/color/48/undefined/orange-juice.png"/>  Premier, Photoshop
 
-<a href="https://github.com/alpergulsenn/alpergulsenn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alpergulsenn&show_icons=true&line_height=27&count_private=true&title_color=5a54ab&text_color=f609a1&icon_color=eadb15&bg_color=fff" alt="Alper's GitHub Stats" />
-</a>
-<br />
+
 
 ## Contact
-- [@alpergulsen_](https://www.instagram.com/alpergulsen_/) on Instagram
-- [oranssi44 #3738](./) on Discord
+<img width="20px" src="https://img.icons8.com/color/48/undefined/instagram.png"/>  [@alpergulsen_](https://www.instagram.com/alpergulsen_/) on Instagram      
+<img width="20px" src="https://img.icons8.com/doodle/48/undefined/discord-logo.png"/>  [oranssi44 #3738](./) on Discord
 
 
 
